@@ -1,13 +1,27 @@
 # Summary
 
-* [imooc 走进svg](book/imooc/README.md)
-    * [SVG中的坐标系统](book/imooc/coordinatedSystem.md)
-    * [颜色渐变和线刷](book/imooc/colorShade.md)
-    * [path高级教程](book/imooc/path.md)
-    * [svg文本](book/imooc/svgLiteral.md) 
-    * [图形引用|剪切和蒙板](book/imooc/layerMasking.md) 
-    * [SVG动画](book/imooc/animation.md) 
-    * [总结](book/imooc/conclusion.md) 
+* [Basic Types](book/microHandbook/BasicTypes.md)
+* [Variable Declarations](book/microHandbook/VariableDeclarations.md)
+* [Interfaces](book/microHandbook/Interfaces.md)
+* [Classes](book/microHandbook/Classes.md)
+* [Functions](book/microHandbook/Functions.md) 
+* [Generics](book/microHandbook/Generics.md) 
+* [Enums](book/microHandbook/Enums.md) 
+* [Type Inference](book/microHandbook/TypeInference.md) 
+* [Type Compatibility](book/microHandbook/TypeCompatibility.md) 
+* [Advanced Types](book/microHandbook/AdvancedTypes.md) 
+* [Symbols](book/microHandbook/Symbols.md) 
+* [Iterators and Generators](book/microHandbook/IteratorsAndGenerators.md) 
+* [Modules](book/microHandbook/Modules.md) 
+* [Namespaces](book/microHandbook/Namespaces.md) 
+* [Namespaces and Modules](book/microHandbook/NamespacesAndModules.md) 
+* [Module Resolution](book/microHandbook/ModuleResolution.md) 
+* [Declaration Merging](book/microHandbook/DeclarationMerging.md) 
+* [Decorators](book/microHandbook/Decorators.md) 
+* [Mixins](book/microHandbook/Mixins.md) 
+* [Triple-Slash Directives](book/microHandbook/Triple-SlashDirectives.md) 
+* [Type Checking JavaScript Files](book/microHandbook/TypeCheckingJavaScriptFiles.md) 
+
 
 
 

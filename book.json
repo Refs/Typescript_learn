@@ -15,7 +15,7 @@
         }
     },
     "styles": {
-        "website": "assets/styles/website.css"
+        "website": "book/assets/styles/website.css"
     },
     "plugins": [
         "-sharing",
@@ -30,7 +30,7 @@
     ],
 
     "pluginsConfig": {
-        "favicon": "assets/images/favicon.ico",
+        "favicon": "book/assets/images/favicon.ico",
         "page-footer-ex": {
             "copyright": "Copyright © smart.dh-solar.cn 2018",
             "markdown": false,
