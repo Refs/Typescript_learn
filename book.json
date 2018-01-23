@@ -1,0 +1,54 @@
+{
+    "title": "光伏鹰眼智能管理平台帮助文档",
+    "description": "网页的基本使用",
+    "author": "大恒研发部",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "",
+    "root": ".",
+    "structure": {
+        "readme": "INTRODUCTION.md"
+    },
+    "links": {
+        "sidebar": {
+            "Home": "http://smart.dh-solar.cn/"
+        }
+    },
+    "styles": {
+        "website": "assets/styles/website.css"
+    },
+    "plugins": [
+        "-sharing",
+        "custom-favicon",
+        "splitter",
+        "-tbfed-pagefooter",
+        "page-footer-ex",
+        "anchors",
+        "back-to-top-button",
+        "-anchor-navigation-ex"
+        
+    ],
+
+    "pluginsConfig": {
+        "favicon": "assets/images/favicon.ico",
+        "page-footer-ex": {
+            "copyright": "Copyright © smart.dh-solar.cn 2018",
+            "markdown": false,
+            "update_label": "updated",
+            "update_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © smart.dh-solar.cn 2018",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "anchor-navigation-ex": {
+            "mode": "pageTop",
+            "isRewritePageTitle": false,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        }
+
+    }
+}
